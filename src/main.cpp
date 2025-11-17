@@ -28,7 +28,7 @@ class SpotRollNode : public rclcpp::Node
 public:
   SpotRollNode()
   : Node("spot_msgs_node"),
-    foot_sub_(this, "/status/feet",  rmw_qos_profile_sensor_data),  
+    foot_sub_(this, "spot/status/feet",  rmw_qos_profile_sensor_data),  
     joint_sub_(this, "/joint_states",     rmw_qos_profile_sensor_data)
   {
     imu_ang_vel_.setZero();
