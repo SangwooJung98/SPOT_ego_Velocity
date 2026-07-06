@@ -18,8 +18,7 @@ ROS2 based **leg kinematic based ego-velocity estimator for Boston Dynamics SPOT
 ```
 
 ## GaRLILEO: Gravity-aligned Radar-Leg-Inertial Enhanced Odometry
-
-
+**2026 IJRR Accepted**
 
 **[[Homepage]](https://garlileo.github.io/GaRLILEO/)  [[arXiv]](https://arxiv.org/pdf/2511.13216) [[Code]](https://github.com/ChiyunNoh/GaRLILEO)**
 
@@ -28,10 +27,12 @@ ROS2 based **leg kinematic based ego-velocity estimator for Boston Dynamics SPOT
 
 ```
 @article{noh2025garlileo,
-  title={GaRLILEO: Gravity-aligned Radar-Leg-Inertial Enhanced Odometry},
-  author={Chiyun Noh and Sangwoo Jung and Hanjun Kim and Yafei Hu and Laura Herlant and Ayoung Kim},
-  journal={arXiv preprint arXiv:2511.13216},
-  year={2025}
+  title={GaRLILEO: Gravity-aligned radar-leg-inertial enhanced odometry},
+  author={Noh, Chiyun and Jung, Sangwoo and Kim, Hanjun and Hu, Yafei and Herlant, Laura and Kim, Ayoung},
+  journal={The International Journal of Robotics Research},
+  pages={02783649261457941},
+  year={2025},
+  publisher={SAGE Publications Sage UK: London, England}
 }
 ```
 
